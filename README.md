@@ -1,29 +1,47 @@
 # Download Notifier for Google Chrome
+
 Get a desktop notification when your download finished.
 
 You could install the extension via <https://chrome.google.com/webstore/detail/download-notifier/gdekiloeocnfnochnkldpkmllmfiaeke>.
 
-##Features implemented
+## Features implemented
+
 - Desktop notification for finished downloads
 - Open downloaded file / Reveal file from the notification UI
 - Play a sound if you want once download finished (could be enabled / disabled via options)
 - Disable / Enable Google Chrome's default download shelf
 
-##Known Issue
+## Known Issue
+
 *Which did NOT have a plan to be fixed yet*
 
 - File icon displayed on notification UI might not right
 - Your personal settings might not work (did not figure out why, possibly caused by chrome.storage.sync.*)
 - A safty change dialogue might be prompted repeatedly
 
-##Features planned
+## Features planned
+
 *Which also did NOT have a plan to be implemented*
 
 - A drop list of recent downloads while the extension icon is clicked
 - Turn the extension icon into a progress indicator while you have in progress download (that's what the progress.js file for)
 - An individual volume controller of this extension (half implemented)
 
-##License
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot-1.png)
+
+![Screenshot 3](screenshots/screenshot-3.png)
+
+![Screenshot 4](screenshots/screenshot-4.png)
+
+![Screenshot 6](screenshots/screenshot-6.png)
+
+![Screenshot 7](screenshots/screenshot-7.png)
+
+![Screenshot 8](screenshots/screenshot-8.png)
+
+## License
 
 *License chosed using <http://choosealicense.com/>.*
 
